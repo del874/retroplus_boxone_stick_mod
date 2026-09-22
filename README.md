@@ -1,9 +1,9 @@
 # Retro plus Box one × 三和摇杆 改装套件 · 使用说明
 
 > 把手感扎实的三和（Sanwa）街机摇杆塞进 Retro+ Box 框体。
-> 不改框体、不打孔破坏原结构 —— 只做三件事：**换短杆芯 / 上车床件 / 换底板**。
+> 不改框体、不打孔破坏原结构 —— 只做三件事：**换短杆芯 / 上CNC件 / 换底板**。
 >
-> *A DIY mod kit that fits a Sanwa arcade joystick into the Retro+ Box chassis — shortened shaft, CNC adapter bracket, and a replacement base plate.*
+> *A DIY mod kit that fits a Sanwa arcade joystick into the Retro+ Box one chassis — shortened shaft, CNC adapter bracket, and a replacement base plate.*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -84,7 +84,7 @@ Retro+ Box one里面安装三和摇杆有以下三个问题。
 | 摇杆模块组合 | 触发器切短 6 mm | 底板成品 |
 | --- | --- | --- |
 | ![模块组合](docs/images/6-模块组合实拍.jpg) | ![触发器](docs/images/7-触发器切短6mm.jpg) | ![底板实拍](docs/images/8-底板实拍.jpg) |
-| 支架 + 摇杆本体 + 微动/PCB 组合后的样子 | 塑料触发器需切短 6 mm；下方为车好的短杆芯 | 碳纤维底板 + 硅胶防滑垫 + 铝封盖 |
+| 支架 + 摇杆本体 + 微动/PCB 组合后的样子，摇杆卡扣需要剪短，档圈需要用OTTO的 | 塑料触发器需切短 6 mm；下方为车好的短杆芯 | 碳纤维底板 + 硅胶防滑垫 + 铝封盖 |
 
 ---
 
